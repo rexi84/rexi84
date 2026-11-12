@@ -2,15 +2,15 @@
 
 ### About Me
 * I started coding at the age of 8 using a Commodore 64.
-* I'm currently studying IT and am a member of MS STC.
+* I'm currently studying IT and am a member of microsoft STC.
 * I am currently working on a CHIP-8 emulator in C.
-* How to reach me: Discord (Username: [Your Discord Username Here])
+* How to reach me: Discord (Username: rexi84)
 
 ### Languages and Tools
-* **Programming Languages:** C, C++, C#, PHP
+* **Programming Languages:** C, C++, C#
 * **Low-Level:** x86 Assembly (basics)
-* **Web:** HTML, CSS
-* **Libraries & APIs:** raylib, graphics.h
+* **Web:** HTML, CSS, PHP
+* **Libraries & APIs:** raylib, graphics.h, WPF
 
 ### Featured Projects
 * **3D Render Engine** - A custom 3D rendering engine built using C++ and graphics.h.
